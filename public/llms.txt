@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לסקסי – המקום שבו תמצאו את כל מה שחיפשתם בקטלוג המקיף ביותר. חוויה ייחודית מחכה לכם כאן, אל תפספסו!
+
+### ניסיון
+https://example.com/experience
+הניסיון שלנו מדבר בעד עצמו – עם hunter course catalog מוביל ושנים של מומחיות, אנחנו מביאים לכם את החוויה הטובה ביותר שתמצאו. בואו לגלות!
+
+### אודות
+https://example.com/about
+אנחנו סקסי – צוות נלהב שבנה את satan mandela catalogue המיוחד שלנו מאפס. למדו מי אנחנו, מה מניע אותנו ולמה אלפים בוחרים בנו מדי יום.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על durham library catalogue או רוצים לדעת עוד? צרו איתנו קשר עכשיו – הצוות שלנו זמין עבורכם ויחזור אליכם בהקדם האפשרי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - סקסי
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - סקסי
+
+### Category
+https://example.com/category/:slug
+מוצרים - סקסי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
